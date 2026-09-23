@@ -14,20 +14,20 @@ Our Discord server is the main hub for:
 • Support & guides
 • Whitelist access
 • Community events
-• Shop purchases
+• Online store
 • Player interaction
 
-Whether you enjoy classic survival, enhanced SMP progression, or modded RPG adventures, SoftBloom has a server for you.
+SoftBloom SMP brings cozy survival, RPG-style progression, and a friendly community together.
 
 **Welcome to SoftBloom — play, survive, and bloom with us.** 🌸
 
 ━━━━━━━━━━━━━━━━━━━━
 
-# 🌸 SERVER LIST
+# 🌸 SOFTBLOOM SMP
 
-## 🌸 SoftBloom Original SMP
+## 🌸 SoftBloom SMP
 
-An enhanced survival SMP with custom features, stronger mobs, bosses, enchantments, progression systems, and expanded exploration.
+A cozy survival server with RPG progression, quests, custom content, and a welcoming community.
 
 ### 📌 Server Info
 
@@ -35,206 +35,36 @@ An enhanced survival SMP with custom features, stronger mobs, bosses, enchantmen
 **Java:** 1.21.11 → Latest
 **Bedrock:** Latest
 
-**IP (Domain 1):** `softbloomoriginal.ultraga.me`
-**IP (Domain 2):** `sftblmorg.usga.me`
+**IP (Domain 1):** `sftblmorg.usga.me:12006`
+
 **Port:** `12006`
-**Numerical IP:** `185.207.166.79:12006`
+**Numerical IP:** `216.163.186.36:12006`
 
 ### ✨ Main Features
 
-• Enhanced survival gameplay
-• Land claiming & anti-grief
-• Custom structures & dungeons
-• Reworked Nether & End
-• Extra dimensions
-• Stronger mobs & bosses
-• Custom enchantments
-• Rankup progression system
-• Player shops & trading
-• Backpacks, vaults & QoL features
+• Cozy, community-focused survival
+• RPG-style progression & leveled mobs
+• MMO-like skills: mining, combat, defense, fishing & more
+• 1,400+ quests with rewards
+• Custom structures & custom trees
+• Custom dimensions with unique biomes
+• Custom PvE dungeons with rewards
+• Expanded custom fishing content
+• Land protection & claiming
+• Grindable ranks from Settler to Eternal with useful perks
+• Player economy, shops & trading
+• Unique loot, crates, collectibles & rewards
+• Cosmetics & custom content
+• Community events, activities & vote rewards
+• Translator: EN, ES, FR, DE, PT, IT, JP, CN
 • Java + Bedrock crossplay
-• Voice chat support
-• Anti-cheat & anti-xray systems
+• Friendly, welcoming community
 
 ━━━━━━━━━━━━━━━━━━━━
 
-## 🌿 SoftBloom Vanilla
+## 🌸 SOFTBLOOM SMP FEATURES
 
-A simple survival SMP focused on classic Minecraft gameplay with a few quality-of-life additions.
-
-### 📌 Server Info
-
-**Version:** 1.21.11
-**Java:** 1.21.11 → Latest
-**Bedrock:** Latest
-
-**IP:** `softbloomvanilla.usga.me`
-**Port:** `12010`
-**Numerical IP:** `185.207.166.79:12010`
-
-### ✨ Main Features
-
-• Classic vanilla survival
-• Claim protection
-• Cosmetic items
-• Friendly community gameplay
-• Java + Bedrock support
-
-━━━━━━━━━━━━━━━━━━━━
-
-## ⚔️ SoftBloom RPG
-
-A modded RPG survival server using the **Craft to Exile 2** modpack.
-
-### 📌 Server Info
-
-**Minecraft Version:** 1.20.1
-**Loader:** Forge
-**Forge Build:** 47.4.13
-
-**IP:** `rpgsoftbloom.ultraga.me`
-**Port:** `12012`
-**Numerical IP:** `185.207.166.79:12012`
-
-### ⚠️ Requirements
-
-• Craft to Exile 2 Modpack
-• NedoLogin Mod
-
-### ✨ Main Features
-
-• RPG progression system
-• Classes, builds & skills
-• Modded weapons & gear
-• Dungeons & adventure areas
-• Stronger enemies & bosses
-• Multiplayer RPG survival experience
-
-━━━━━━━━━━━━━━━━━━━━
-
-# 🌸 ORIGINAL SMP FEATURES
-
-## 🌍 Survival Experience
-
-SoftBloom Original SMP keeps the classic Minecraft survival feeling while expanding it with progression, exploration, and protection systems.
-
-### Features
-
-• Enhanced SMP gameplay
-• Land claiming system
-• Anti-grief protection
-• Improved Overworld generation
-• Kits, spawn & wild teleport
-• Community-focused multiplayer gameplay
-
-━━━━━━━━━━━━━━━━━━━━
-
-## 🧭 Worlds & Exploration
-
-Explore upgraded dimensions, structures, and custom adventure content.
-
-### Features
-
-• Enhanced Overworld generation
-• Reworked Nether
-• Expanded End dimension
-• Dungeons & taverns
-• Upgraded vanilla structures
-• Extra dimensions & exploration zones
-
-━━━━━━━━━━━━━━━━━━━━
-
-## ⚔️ Combat & Bosses
-
-Combat is more challenging and rewarding than normal vanilla survival.
-
-### Features
-
-• Stronger mobs & mob variants
-• Custom boss encounters
-• Dragon progression systems
-• Custom enchantments
-• Expanded gear options
-• Harder survival nights
-
-━━━━━━━━━━━━━━━━━━━━
-
-## 📈 Progression System
-
-Long-term progression with ranks, rewards, and gameplay milestones.
-
-### Features
-
-• Rankup progression
-• Playtime rewards
-• Activity-based goals
-• Grindable survival ranks
-• Crates, keys & vouchers
-• Reward & perk systems
-
-━━━━━━━━━━━━━━━━━━━━
-
-## 🛒 Trading & Rewards
-
-A player-driven trading system without relying heavily on economy plugins.
-
-### Features
-
-• Player shops
-• Item-for-item trading
-• Crates & keys
-• Reward vouchers
-• Backpacks & vault storage
-• Community marketplace gameplay
-
-━━━━━━━━━━━━━━━━━━━━
-
-## ✨ Quality of Life Features
-
-Helpful systems designed to improve survival gameplay without removing the SMP feel.
-
-### Features
-
-• Sitting & relaxing features
-• Carry mechanics
-• Double jump
-• Wild teleport
-• Backpacks & extra storage
-• Better chat formatting
-• Discord-linked chat
-• Voice chat support
-• Spawn & starter kits
-
-━━━━━━━━━━━━━━━━━━━━
-
-## 🌐 Java & Bedrock Crossplay
-
-Play together across multiple platforms.
-
-### Features
-
-• Java Edition support
-• Bedrock Edition support
-• Cross-device multiplayer
-• Skin support
-• Login protection
-• Discord integration
-
-━━━━━━━━━━━━━━━━━━━━
-
-## 🛡️ Protection & Stability
-
-Systems designed to keep gameplay fair, protected, and optimized.
-
-### Features
-
-• Land claim protection
-• Anti-grief systems
-• Anti-cheat protection
-• Anti-xray protection
-• Inventory rollback support
-• Lag optimization systems
-• Auto-restart & maintenance systems
+The latest server features are listed above. Double Jump and Dungeons & Taverns have been removed. Custom PvE dungeons remain available.
 
 ━━━━━━━━━━━━━━━━━━━━
 
@@ -244,7 +74,7 @@ Systems designed to keep gameplay fair, protected, and optimized.
 https://dsc.gg/softbloom
 
 🌸 TikTok
-https://www.tiktok.com/@val23182
+https://www.tiktok.com/@val_vinson
 
 ━━━━━━━━━━━━━━━━━━━━
 
@@ -268,18 +98,7 @@ Assistant Dev & WebDev
 
 # 🌸 EXTRA INFORMATION
 
-🛒 Shops are handled through our Discord server.
+🛒 Online store: https://softbloom.craftingstore.net/
 📚 Official Wiki — Coming Soon.
 
 ━━━━━━━━━━━━━━━━━━━━
-
-# 🌸 TAB SUGGESTION
-
-Create separate tabs/pages for:
-• Original SMP
-• Vanilla SMP
-• RPG Server
-• Staff Team
-• Links & Support
-• Shop Information
-• Guides & Wiki
