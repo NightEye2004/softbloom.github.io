@@ -83,12 +83,14 @@ https://www.tiktok.com/@val_vinson
 👑 Owner & Developer
 • Val
 
-💬 Discord Managers
+🛡️ Admins
 • Adam
-• ItzNaomi
+• Nao
 
-📢 Recruiters
-• Adam
+🧭 Moderator
+• Camilla
+
+📢 Recruiter
 • .eleeyz
 
 Assistant Dev & WebDev
