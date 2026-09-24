@@ -69,41 +69,31 @@
 
   <!-- Hero -->
   <header id="hero" class="hero-section">
-    <div class="hero-bg" aria-hidden="true">
-      <img
-        src="logo/banner.png"
-        alt=""
-        class="hero-banner-bg"
-        width="1920"
-        height="600"
-        loading="eager"
-        fetchpriority="high"
-      >
-      <div class="hero-overlay"></div>
+    <div class="hero-bg">
+      <img src="logo/banner.png" alt="SoftBloom floral server banner" class="hero-banner-bg" width="1920" height="600" loading="eager" fetchpriority="high">
+      <span class="hero-badge"><i class="fa-solid fa-sparkles" aria-hidden="true"></i> Java + Bedrock Community SMP</span>
     </div>
+  </header>
+
+  <section class="hero-intro">
     <div class="container hero-content">
       <div class="row justify-content-center text-center">
         <div class="col-lg-10" data-aos="fade-up" data-aos-duration="900">
-          <span class="hero-badge mb-3"><i class="fa-solid fa-sparkles" aria-hidden="true"></i> Java + Bedrock Community SMP</span>
           <h1 class="hero-title"><span class="visually-hidden">SoftBloom SMP: </span>Your place to <span class="gradient-text">play &amp; bloom.</span></h1>
           <p class="hero-tagline lead">Play, survive, and bloom together.</p>
-          <p class="hero-desc mx-auto">
-            Settle in, take on quests, build something wonderful, and find your people on SoftBloom SMP.
-          </p>
+          <p class="hero-desc mx-auto">Settle in, take on quests, build something wonderful, and find your people on SoftBloom SMP.</p>
           <div class="hero-actions d-flex flex-wrap justify-content-center gap-3 mt-4">
-            <a href="#servers" class="btn btn-primary-soft btn-lg">
-              <i class="fa-solid fa-server me-2"></i>Join Server
-            </a>
-            <a href="https://dsc.gg/softbloom" class="btn btn-outline-soft btn-lg" target="_blank" rel="noopener noreferrer">
-              <i class="fa-brands fa-discord me-2"></i>Discord
-            </a>
+            <a href="#servers" class="btn btn-primary-soft btn-lg"><i class="fa-solid fa-server me-2" aria-hidden="true"></i>Join Server</a>
+            <a href="https://dsc.gg/softbloom" class="btn btn-outline-soft btn-lg" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-discord me-2" aria-hidden="true"></i>Discord</a>
           </div>
         </div>
       </div>
     </div>
-  </header>
+  </section>
 
-  <main>
+<div class="bloom-ribbon container" aria-label="SoftBloom community highlights"><span><i class="fa-solid fa-heart" aria-hidden="true"></i> Cozy community</span><span><i class="fa-solid fa-wand-magic-sparkles" aria-hidden="true"></i> New things to discover</span><span><i class="fa-solid fa-seedling" aria-hidden="true"></i> Room to grow together</span></div>
+
+<main>
 
     <!-- About -->
     <section id="about" class="section-padding">
@@ -178,9 +168,10 @@
                 </div>
                 <div class="col-lg-5">
                   <div class="server-info-panel">
-                    <div class="info-row"><span>Version</span><strong>1.21.11</strong></div>
-                    <div class="info-row"><span>Java</span><strong>1.21.11 → Latest</strong></div>
+                    <div class="info-row"><span>Server version</span><strong>Purpur 1.21.11</strong></div>
+                    <div class="info-row"><span>Recommended Java</span><strong>1.21.11</strong></div>
                     <div class="info-row"><span>Bedrock</span><strong>Latest</strong></div>
+<p class="version-note"><i class="fa-solid fa-circle-info" aria-hidden="true"></i> Java versions above 1.21.11 can break the custom texture pack.</p>
                     <div class="server-address mt-3">
                       <span class="server-address-label">Server address</span>
                       <div class="server-address-primary">
@@ -235,6 +226,7 @@
         <div class="row g-4 justify-content-center">
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="0">
             <article class="highlight-card h-100 text-center">
+              <span class="highlight-icon" aria-hidden="true"><i class="fa-solid fa-scroll"></i></span>
               <span class="highlight-value">1,400+</span>
               <h3>Quests to explore</h3>
               <p>Take on new goals, discover stories, and earn rewards.</p>
@@ -242,6 +234,7 @@
           </div>
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="75">
             <article class="highlight-card h-100 text-center">
+              <span class="highlight-icon" aria-hidden="true"><i class="fa-solid fa-earth-americas"></i></span>
               <span class="highlight-value">Java <span aria-hidden="true">+</span> Bedrock</span>
               <h3>Play together</h3>
               <p>Join from your preferred edition and meet the community.</p>
@@ -249,6 +242,7 @@
           </div>
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="150">
             <article class="highlight-card h-100 text-center">
+              <span class="highlight-icon" aria-hidden="true"><i class="fa-solid fa-ranking-star"></i></span>
               <span class="highlight-value">Settler → Eternal</span>
               <h3>Progress at your pace</h3>
               <p>Grindable ranks bring useful perks as you grow.</p>
@@ -301,7 +295,9 @@
           </div>
           <div class="col-6 col-md-4 col-lg" data-aos="fade-up" data-aos-delay="150">
             <div class="staff-card">
-              <div class="staff-avatar staff-avatar-placeholder" role="img" aria-label="Camilla’s photo coming soon">C</div>
+              <div class="staff-avatar">
+                <img src="staff/camilla.png" alt="Camilla" />
+              </div>
               <h3 class="staff-name">Camilla</h3>
               <p class="staff-role">Moderator</p>
             </div>
@@ -393,7 +389,7 @@
                 </h2>
                 <div class="accordion-collapse collapse" id="faq-2" data-bs-parent="#faqAccordion">
                   <div class="accordion-body">
-                    Yes! SoftBloom SMP supports Java (1.21.11 → Latest) and Bedrock (Latest) with crossplay.
+                    Yes! SoftBloom SMP supports Java 1.21.11 and Bedrock (Latest) with crossplay.
                   </div>
                 </div>
               </div>
