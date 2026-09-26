@@ -259,6 +259,18 @@
     if (yearEl) yearEl.textContent = new Date().getFullYear();
   }
 
+  function initExpiringSpotlight() {
+    const spotlight = document.querySelector(".featured-community[data-visible-through]");
+    if (!spotlight) return;
+
+    const now = new Date();
+    const localDate = [now.getFullYear(), String(now.getMonth() + 1).padStart(2, "0"), String(now.getDate()).padStart(2, "0")].join("-");
+    if (localDate <= spotlight.dataset.visibleThrough) {
+      spotlight.hidden = false;
+    } else {
+      spotlight.remove();
+    }
+  }
   function initTabs() {
     const tabEls = document.querySelectorAll('#serverTabs button[data-bs-toggle="pill"]');
     tabEls.forEach((tab) => {
@@ -272,6 +284,7 @@
     initTheme();
     initLoader();
     initYear();
+    initExpiringSpotlight();
     initNavbar();
     initScrollProgress();
     initBackToTop();

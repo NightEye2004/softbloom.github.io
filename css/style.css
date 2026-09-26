@@ -2139,3 +2139,63 @@ html, body {
 @media (max-width: 575.98px) {
   #hero.hero-section { padding-top: 4.5rem; }
 }
+
+.feature-stamps > a {
+  padding: .55rem .9rem;
+  border: 1px solid rgba(221, 151, 185, .28);
+  border-radius: 999px;
+  background: var(--glass);
+  color: var(--text);
+  font-size: .9rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+.feature-stamps > a:hover { border-color: var(--accent); color: var(--accent); }
+.world-kicker {
+  display: inline-block;
+  margin-bottom: .35rem;
+  color: var(--accent);
+  font-size: .85rem;
+  font-weight: 800;
+  letter-spacing: .04em;
+}
+
+/* World gallery cards use the matching in-game screenshots as their artwork. */
+.world-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: clamp(21rem, 34vw, 27rem);
+  overflow: hidden;
+  isolation: isolate;
+  border: 1px solid rgba(255, 255, 255, .2);
+  color: #fff;
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 12px 32px rgba(22, 19, 31, .2);
+}
+.world-card-deeper-dark { background-image: linear-gradient(180deg, rgba(13, 15, 25, .08) 5%, rgba(13, 15, 25, .88) 100%), url("../pictures/world-deep-dark.jpg"); }
+.world-card-limbo { background-image: linear-gradient(180deg, rgba(13, 15, 25, .08) 5%, rgba(13, 15, 25, .9) 100%), url("../pictures/world-limbo.jpg"); }
+.world-card-deep-blue { background-image: linear-gradient(180deg, rgba(13, 15, 25, .08) 5%, rgba(13, 15, 25, .9) 100%), url("../pictures/world-deep-blue.jpg"); }
+.world-card-resourceworld { background-image: linear-gradient(180deg, rgba(13, 15, 25, .05) 5%, rgba(13, 15, 25, .88) 100%), url("../pictures/world-resource.jpg"); }
+.world-card > * { position: relative; z-index: 1; }
+.world-card .feature-icon { color: #fff; background: rgba(255, 255, 255, .2); backdrop-filter: blur(8px); }
+.world-card h3 { color: #fff; text-shadow: 0 2px 10px rgba(0, 0, 0, .55); }
+.world-card p { color: rgba(255, 255, 255, .94); text-shadow: 0 1px 6px rgba(0, 0, 0, .6); }
+.world-card .world-kicker { color: #ffe0ef; text-shadow: 0 1px 6px rgba(0, 0, 0, .75); }
+.world-card::after { z-index: 0; color: rgba(255, 255, 255, .28); }
+@media (max-width: 575.98px) { .world-card { min-height: 21rem; padding: 1.4rem; } }
+
+/* Temporary community feature: JavaScript reveals it only through 28 September 2026. */
+.featured-community { padding: clamp(2.5rem, 6vw, 4.5rem) 0; background: var(--bg); }
+.featured-community[hidden] { display: none !important; }
+.featured-community-figure {
+  overflow: hidden;
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-lg);
+  background: var(--card-bg);
+  box-shadow: var(--shadow-soft);
+}
+.featured-community-image { display: block; width: 100%; max-height: min(68vw, 42rem); object-fit: cover; object-position: center; }
+.featured-community-figure figcaption { padding: .8rem 1rem; color: var(--text-muted); text-align: center; font-size: .92rem; }
